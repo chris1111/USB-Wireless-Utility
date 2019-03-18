@@ -18,5 +18,9 @@
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree104.png)
 
+### NOTE 
+- In macOS Mojave you have to change the security preferences for Mediatek to be allow, see picture
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree110.png)
+
 
 #### Download ➤ [USB Wireless Utility.dmg.zip ](https://github.com/chris1111/USB-Wireless-Utility/releases/tag/V1)

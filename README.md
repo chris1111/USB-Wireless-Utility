@@ -1,6 +1,7 @@
 # USB Wireless Utility
 
 ### For Mac and Hackintosh
+- Working for Mac OS X 10.6 to macOS Mojave 10.14
 
 #### Credit:
 - [chris1111](https://github.com/chris1111)

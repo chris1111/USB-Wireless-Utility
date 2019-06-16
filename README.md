@@ -2,7 +2,7 @@
 
 ### For Mac and Hackintosh
 - Working for Mac OS X 10.6 to macOS Mojave 10.14
-- Not working on Ryzen CPU because its a 32Bit app
+- Not working on Ryzen CPU because its a 32Bit app, ryzen cpu support only 64bit app
 
 #### Credit:
 - [chris1111](https://github.com/chris1111)

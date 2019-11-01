@@ -1,8 +1,5 @@
 # USB Wireless Utility
 
-## Update for macOS Catalina 10.15 ➣ [WIFI-Dlink-Catalina-Panel-V2](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel-V2)
-
-
 ### For Mac and Hackintosh
 - Working for Mac OS X 10.6 to macOS Mojave 10.14
 - Not working on Ryzen CPU because its a 32Bit app, ryzen cpu support only 64bit app
@@ -30,3 +27,6 @@
 
 
 #### Download ➤ [USB Wireless Utility.dmg.zip ](https://github.com/chris1111/USB-Wireless-Utility/releases/tag/V1)
+
+
+## You can see Update for macOS Catalina 10.15 ➣ [WIFI-Dlink-Catalina-Panel-V2](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel-V2)

@@ -1,5 +1,8 @@
 # USB Wireless Utility
 
+- Hackintosh user, this is a test program on macOS
+- Buy a mac after testing this utility
+
 ### For Mac and Hackintosh
 - Working for Mac OS X 10.6 to macOS Mojave 10.14
 - Not working on Ryzen CPU because its a 32Bit app, ryzen cpu support only 64bit app

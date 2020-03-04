@@ -36,4 +36,4 @@
 #### Download ➤ [USB Wireless Utility.dmg.zip ](https://github.com/chris1111/USB-Wireless-Utility/releases/tag/V1)
 
 
-#### You can see Update for macOS Catalina 10.15 ➣ [WIFI-Dlink-Catalina-Panel-V2](https://github.com/chris1111/WIFI-Dlink-Catalina-Panel-V2)
+#### You can see Update for macOS Catalina 10.15 ➣ [Wireless-Ralink-Panel-Utility](https://github.com/chris1111/Wireless-Ralink-Panel-Utility)

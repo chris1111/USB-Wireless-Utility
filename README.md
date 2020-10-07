@@ -19,7 +19,7 @@
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu553.png)
 
-![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree101.png)
+![Screen Shot 2020-10-07 at 8 53 55 AM](https://user-images.githubusercontent.com/6248794/95333474-d48d6280-087a-11eb-8064-34ed022321cf.png)
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree106.png)
 

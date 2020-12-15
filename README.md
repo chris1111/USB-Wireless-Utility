@@ -3,6 +3,8 @@
 
 # USB Wireless Utility
 
+### Update 15 Dec 2020 Update drivers
+
 - Hackintosh user, this is a test program on macOS
 - Buy a mac after testing this utility
 
@@ -33,7 +35,7 @@
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747417.png)
 
 
-#### Download ➤ [USB Wireless Utility.dmg.zip ](https://github.com/chris1111/USB-Wireless-Utility/releases/tag/V1)
+#### Download ➤ [USB Wireless Utility.dmg.zip ](https://github.com/chris1111/USB-Wireless-Utility/releases/tag/V2)
 
 
 #### You can see Update for macOS Catalina 10.15 ➣ [Wireless-Ralink-Panel-Utility](https://github.com/chris1111/Wireless-Ralink-Panel-Utility)
